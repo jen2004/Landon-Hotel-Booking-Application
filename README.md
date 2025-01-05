@@ -6,3 +6,15 @@ I implemented localization and internationalization by building resource bundles
 
 For the complete project requirements, please refer to the “Task Description.pdf” file.
 
+For instructions on how to run this application, scroll to the bottom of this page.
+
+Here is an image of the Landon Hotel Booking Application:
+
+
+![1](https://github.com/user-attachments/assets/8dfac91e-8776-46cf-b1ca-e6f58831e1f2)
+
+
+<strong>Instructions on how to run the program in IntelliJ:</strong><br>
+1.	Open this GitHub project in IntelliJ IntelliJ IDEA 2024.2.0.1.<br>
+2.	Click the green arrow to run the application.<br>
+3.	The application will now be running on http://localhost:8080/.<br>
