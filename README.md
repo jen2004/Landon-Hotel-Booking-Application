@@ -1,4 +1,4 @@
-#Landon Hotel Booking Application
+# Landon Hotel Booking Application
 I completed this project during my 5th semester at WGU as a part of the class, Advanced Java D387.
 
 For this project, I enhanced the Landon Hotel scheduling application to meet new requirements. 
