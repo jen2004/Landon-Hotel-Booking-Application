@@ -11,7 +11,8 @@ For instructions on how to run this application, scroll to the bottom of this pa
 Here is an image of the Landon Hotel Booking Application:
 
 
-![1](https://github.com/user-attachments/assets/8dfac91e-8776-46cf-b1ca-e6f58831e1f2)
+![1](https://github.com/user-attachments/assets/d2a1dbeb-ea7c-42fd-a900-8ac5711b28fe)
+
 
 
 <strong>Instructions on how to run the program in IntelliJ:</strong><br>
